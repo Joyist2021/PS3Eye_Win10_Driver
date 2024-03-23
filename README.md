@@ -5,3 +5,5 @@ github上有高手解决了此问题，并分享了源码，地址如下：
 https://archive.org/details/CLEyeDriver5.3.0.0341Emuline
 
 https://github.com/jkevin/PS3EyeDirectShow
+
+https://github.com/psmoveservice/PSMoveService/wiki/PSEye-Software-Setup-(Windows)
